@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film &amp; Acara Tv</string>
+
+    <string name="tab_title_movie">Film</string>
+    <string name="tab_title_tv_show">Acara Tv</string>
+
+    <string name="overview_title">Ringkasan</string>
+    <string name="release_title">Tayang</string>
+    <string name="movie_title">Judul</string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie &amp; Tv Show Catalogue</string>
+
+    <string name="tab_title_movie">Movies</string>
+    <string name="tab_title_tv_show">Tv Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="overview_title">Overview</string>
+    <string name="release_title">Release</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="release_detail">Release Detail</string>
+    <string name="overview_detail">Overview Detail</string>
+</resources>
